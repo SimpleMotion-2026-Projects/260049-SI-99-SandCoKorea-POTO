@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|
 |
+| v0.0.0.8 | c6e0f2c | 2026-02-28 12:26 UTC | Greg Gowans | Update .claude submodule to v0.0.0.199 |
 | v0.0.0.7 | 2e55e2c | 2026-02-26 06:16 UTC | Greg Gowans | Refactor filenames: replace spaces and underscores with hyphens |
 | v0.0.0.6 | abf6921 | 2026-02-26 06:15 UTC | Greg Gowans | Refactor filenames: replace spaces and underscores with hyphens | v0.0.0.5 | 4700824 | 2026-02-07 11:44 UTC | Greg Gowans | Add POTO Korea invoice documents |
 | v0.0.0.4 | 9981c27 | 2026-02-05 17:23 UTC | Greg | Update project files |
