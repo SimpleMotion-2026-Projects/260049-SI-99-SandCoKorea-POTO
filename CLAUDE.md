@@ -42,7 +42,7 @@ Chandelier installation engineering and support for **The Phantom of the Opera**
 - Some 2012 Blue Square structural elements may still be in place
 - New winch motor system differs from 2012 installation - new engineering required
 - Site visit required by June 3, 2026 to inform design phase
-- Previous project reference: 230009-SP-SnCoKorea-POTO
+
 
 ## Commands
 

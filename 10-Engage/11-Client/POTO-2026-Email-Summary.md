@@ -46,8 +46,6 @@
 
 SimpleMotion previously supplied chandelier control, drives, and hoists for POTO in South Korea:
 
-- **Project ID:** 230009-SP-SnCoKorea-POTO
-- **SharePoint:** https://simplemotion.sharepoint.com/teams/230009-SP-SnCoKorea-POTO (archived)
 - **Equipment:** Chandelier hoists owned by GWB Entertainment
 
 **2022-2023 Project Timeline:**
@@ -104,6 +102,6 @@ A separate automation bid is in progress with the same Korean contacts:
 
 1. **Site Visit:** Coordinate with Ji on dates for site visit to Blue Square Theatre
 2. **Engineering Assessment:** Evaluate compatibility of new winch system with any existing 2012 structural elements
-3. **Documentation:** Retrieve relevant drawings from 230009-SP-SnCoKorea-POTO archive
+3. **Documentation:** Retrieve relevant drawings from previous POTO Korea project archive
 4. **Quotation:** Prepare quotation for 2026 engineering and installation work
 5. **Coordination:** Liaise with GWB Entertainment as equipment owner
