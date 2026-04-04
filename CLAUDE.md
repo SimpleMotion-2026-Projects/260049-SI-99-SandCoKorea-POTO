@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**260049-SI** | SandCo Korea | POTO
+**260049-SE** | SandCo Korea | POTO
 
 Chandelier installation engineering and support for **The Phantom of the Opera** Korea 2026 season at Blue Square Theatre, Seoul.
 
