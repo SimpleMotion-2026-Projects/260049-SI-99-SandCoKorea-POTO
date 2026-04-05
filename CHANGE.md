@@ -2,6 +2,7 @@
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|---------|
+| v0.0.0.21 | f3dd338 | 2026-04-05 07:03 UTC | Greg Gowans | Update .claude submodule to v0.0.1.26 |
 | v0.0.0.19 | 989ef51 | 2026-04-04 22:10 UTC | Greg Gowans | Update CHANGE.md to reflect all tagged commits |
 | v0.0.0.18 | 6c2d1ec | 2026-04-04 11:07 UTC | Greg Gowans | Rename Quote to Quotation in all document filenames and references |
 | v0.0.0.17 | 5e0b76c | 2026-04-04 11:03 UTC | Greg Gowans | Rename quotation files to new format (2026-0049-SE-Quote-XX-vXX) |

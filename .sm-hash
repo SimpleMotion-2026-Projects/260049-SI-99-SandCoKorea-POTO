@@ -1,0 +1,10 @@
+{
+  "version": "v0.0.0.21",
+  "hash": "f3dd338",
+  "date": "2026-04-05 07:03 UTC",
+  "author": "Greg Gowans",
+  "message": "Update .claude submodule to v0.0.1.26",
+  "claude_version": "v0.0.1.26",
+  "copyright_year": 2026,
+  "plugin_version": null
+}
